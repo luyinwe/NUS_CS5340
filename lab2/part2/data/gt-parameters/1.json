@@ -1,0 +1,13 @@
+{
+  "nobservations": 1000,
+
+  "nodes": ["0"],
+  "edges": [],
+
+  "parameters": {
+    "0": {
+      "bias": 0,
+      "variance": 1
+    }
+  }
+}
